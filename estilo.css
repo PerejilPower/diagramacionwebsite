@@ -1,0 +1,144 @@
+h1 {
+    text-align: center;
+    background-color: brown;
+    color: black;
+    
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu {
+    margin: auto;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.nav li a {
+    background-color: burlywood;
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;    
+}
+
+.nav > li {
+    float: left;
+}
+
+.nav li a:hover {
+    background-color: gainsboro;
+}
+
+.nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+    
+.nav li:hover > ul {
+    display: block;
+}
+
+.tema1 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    justify-content: space-between;
+    display fl
+
+    
+}
+
+
+.tema2 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    justify-content: space-between;
+    
+}
+
+.tema3 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    justify-content: space-between;
+    
+}
+
+.tema4 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    justify-content: space-between;
+    
+}
+
+.tema5 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    
+}
+
+.tema6 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    
+}
+
+.tema7 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    
+}
+
+.tema8 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    
+}
+
+.tema9 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    
+}
+
+.tema10 {
+    width: 24%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    
+}
