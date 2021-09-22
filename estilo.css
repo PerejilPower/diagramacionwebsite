@@ -15,8 +15,13 @@ h1 {
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: burlywood;
+    position: relative;
+    display: inline-block;
 }
 
+.nav {
+    opacity: .5;
+}
 ul, ol {
     list-style: none;
 }
@@ -50,13 +55,9 @@ ul, ol {
 #tema1 {
     width: 24%;
     margin-bottom: 10px;
-    overflow: hidden;
-    position: relative;
+    overflow: hidden;   
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
-    
 
-
-    
 }
 
 
@@ -235,4 +236,11 @@ ul, ol {
   padding: 0;
   width: 100%;
   background-color: burlywood;
+  border-radius: 3px 3px 3px 3px;
 }
+
+#flujo {
+    text-align: center;
+    margin-top: 100px;
+}
+
